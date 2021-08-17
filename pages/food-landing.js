@@ -1,7 +1,11 @@
 export default function FoodLanding() {
   return (
-    <section>
-      
-    </section>
+    <>
+      <section className="bg-white flex flex">
+        <div className="container mx-auto flex">
+
+        </div>
+     </section>
+    </>
   )
 }
